@@ -1,3 +1,3 @@
 # ASCII FInn
 
-We are the best
+Enabling superior research everywhere
