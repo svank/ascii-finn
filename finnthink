@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cwd=$(pwd)
+COWPATH=$cwd/finnsay_files cowthink -f finn-standing "$@"

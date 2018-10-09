@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cwd=$(pwd)
+COWPATH=$cwd/finnsay_files cowsay -f finn-shouting "$@"

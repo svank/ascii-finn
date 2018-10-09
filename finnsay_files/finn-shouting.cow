@@ -1,0 +1,28 @@
+$the_cow = <<"EOC";
+   $thoughts        `-.`                                                               
+    $thoughts       oyyshso/-                 `---::://:-`                             
+     $thoughts      +hyshyhdmmho:`           +hddmmmNNNNNNmy+//osyyyyyhy.              
+      $thoughts     +syssyhddmNNNNdyo///:::+hddmmmmmmmmmmmNNMMNmyssyddmmdmh+`          
+       $thoughts   `/oyyhdmmNNNNNNNNNNNmmmmmds++oyhhddhddddddddmmdhddddddmNNd:         
+        $thoughts   -+syhddddmdNNNNNNNNmmdsso/--ooshdddddddhyyyyhhhhhddmmmmNNN+        
+         $thoughts   `-+yhhhhddNNNNNNNNNmho+:./:oyyddddddddhyyhhhhhhhhdddmmmNNNs`      
+                oyoyddmmNNNNNNNNNmy/:://oshddddddhhhddhhhhhyyyyhddddmmNMy`     
+                :. `:shmNNNNNNNNNNdyssssysyhddddhhdddddhhhyyyyhddddmmmmNMh`    
+                      ./ydNNNNNmmNNmdhyyyyyhhhhyhddddddhhhyyhhhddddmmmmNNMd.   
+                         -/sdNNNNmNNNmdhyyyyhhyyhddddddhyyhhhhhhhhddddddmmNd:  
+              `         `...oodNNNmNNNNNmdhhhhhhyyhhdmmdyyyhhhyyhhhhhhhhhdmMh  
+             `d.`````  .-:::/-:ohmNmmNNNNNNdhhdddhhhyhhhyyyyyyyssssssoo+oysh-  
+          :+shmyooo+//:::/+o+:-.:ohmmmNNNNNNhydddddddddyoosysso+///+sooyyo-`   
+          /oymdyyyhyo+oo//++:-+..:/sdddNNNNNmhhhdddddmdssyyhmmmmmmmNNNNN/      
+          -/+shhhyyhhyys/+s+yhdoo+-:hhhmNNNNNNmddddddmdsyyhdmNNNNMMMMMMMy`     
+            ./shdhyyyyyyo++++o+oo+oshhhNNNNNNmddddhdmmdhhhddmNMMMMMMMMMMMd     
+              `-://+oosyyyyyhhhddddddddddmmNmddddddmmmmddhdmNMMMMMMMMMMMMM/    
+                        ``.-::/oosyhhhyyyyhdmmmNNNNNNmddmmNNMMMMMMMMMMMMMMd`   
+                                   `-/+sssssyhdmmmmmmmmNNNMMMMMMMMMMMMMMMMMd`  
+                                      `/osyyhddddmmmmNNNNMMMMMMMMMMMMMMMMMMMs  
+                                      `osshdddddmddmmmmNMMMMMMMMMMMMMMMMMMMMM: 
+                                       /syhdddddhdmmmmmNMMMMMMMMMMMMMMMMMMMMMh 
+                                       -syysyyhddmmmdmNMMMMMMMMMMMMMMMMMMMMMMM/
+                                       `ohhyyyyhdddddmMMMMMMMMMMMMMMMMMMMMMMMMN
+                                        +yyhhyhhdhhhdNMNNMMMMMMMMMMMMMMMMMMMMMM
+EOC
