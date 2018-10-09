@@ -7,14 +7,17 @@ import os
 import sys
 import random
 
+# Find out where this script file, and by extention the ASCII image files,
+# are located.
+base_dir = os.path.dirname(os.path.realpath(__file__))
 images_dir = "ascii_images"
 
-images = os.listdir(images_dir)
+images = os.listdir(os.path.join(base_dir, images_dir))
 
 if len(sys.argv) > 1 and sys.argv[1] in images:
     fname = sys.argv[1]
 else:
     fname = random.choice(images)
 
-with open(os.path.join(images_dir, fname)) as f:
+with open(os.path.join(base_dir, images_dir, fname)) as f:
     print(f.read())
