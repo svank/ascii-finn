@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# USAGE: wrap_say ls -l /usr/bin
+# USAGE: alias "ls=wrap_say ls"
+# Everything on the command line after wrap_say will be run, and its output
+# passed to finnsay.
+# wrap_think and wrap_shout work similarly, but use finnthink and finnshout
+
+# wrap_shout and wrap_think just include this file, so we must detemrine
+# the name of the file actually being run
+filename=`basename "$0"`
+version=$(echo $filename | cut -d'_' -f 2)
+# $version now contains either "say", "think", or "shout"
+
+"$@" | finn$version -n
