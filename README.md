@@ -1,6 +1,6 @@
 # ASCII FInn
 
-### Enabling superior research everywhere
+> Enabling superior research everywhere
 
 This includes seven script files:
 
@@ -16,3 +16,12 @@ This includes seven script files:
 
 To enable these scripts, I recommend either including this repository's directory in your PATH, or symlinking the executables to a directory in your path (e.g. ~/bin).
 
+### Screenshots
+
+The `finn` command:
+
+![screenshot of `finn` command](images/finn.png)
+
+The `wrap_say` command:
+
+![screenshot of `wrap_say` command](images/wrap_say.png)
